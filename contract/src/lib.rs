@@ -75,8 +75,8 @@ impl Contract {
             owner_id,
             NFTContractMetadata {
                 spec: "nft-1.0.0".to_string(),
-                name: "NFT Tutorial Contract".to_string(),
-                symbol: "GOTEAM".to_string(),
+                name: "itemit NFT contract demo".to_string(),
+                symbol: "ITEMIT".to_string(),
                 icon: None,
                 base_uri: None,
                 reference: None,
